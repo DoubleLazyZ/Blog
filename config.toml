@@ -1,0 +1,263 @@
+theme = "DoIt"
+baseURL = "https://hungchang.co"
+version = "0.4.0"
+title = "寫寫寫......"
+description = "睡睡睡"
+keywords = ["front-end", "wyatt", "DoubleLazyZ", "zz", "ZZ"]
+defaultTheme = "dark"
+dateFormat = "2006-01-02"
+enableOWA = false
+license =  '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+languageCode = "zh-tw"
+
+[params.app]
+  title = "DoIt"
+  noFavicon = false
+
+[params.header]
+  desktopMode = "fixed"
+  themeChangeMode = "switch"
+[params.header.title]
+  name = "DoubleZ Blog"
+  typeit = false
+[params.footer]
+  enable = true
+  hugo = false
+  copyright = true
+  author = true
+  since = 2023
+  license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+[params.section]
+  paginate = 10
+  dateFormat = "01-02"
+  rss = 10
+[params.section.recentlyUpdated]
+  enable = true
+  rss = true
+  days = 30
+  maxCount = 3
+[params.list]
+  paginate = 10
+  dateFormat = "01-02"
+  rss = 3
+ [params.home]
+  rss = 10
+  [params.home.profile]
+    enable = true
+    avatarURL = "/images/avatar.png"
+    avatarLinkURL = "https://hungchang.co"
+  #  title = "ZZ"
+  #  subtitle = "睡睡睡......"
+    social = true
+  #  disclaimer = ""
+  [params.home.posts]
+    enable = true
+    paginate = 6
+
+[params.social]
+  GitHub = "https://github.com/DoubleLazyZ"
+
+
+[params.page]
+  hiddenFromHomePage = false
+  hiddenFromSearch = false
+  fontawesome = true
+  inkToMarkdown = true
+  rssFullText = false
+  seriesNavigation = true
+
+[params.page.toc]
+  enable = true
+  keepStatic = false
+  auto = false
+
+[params.page.code]
+  copy = false
+  maxShownLines = 10
+
+[params.page.table]
+  sort = true
+
+[params.page.share]
+  enable = true
+  Twitter = true
+  Facebook = true
+  Line = true
+
+[params.page.comment]
+  enable = true
+[params.page.comment.giscus]
+  enable = true
+  dataRepo = "DoubleLazyZ/Blog-Comments"
+  dataRepoId = "R_kgDOJB5kKw"
+  dataCategory = "Q&A"
+  dataCategoryId = "DIC_kwDOJB5kK84CUbyJ"
+  dataMapping = "pathname"
+  dataReactionsEnabled = "1"
+  dataEmitMetadata = "0"
+  dataInputPosition = "bottom"
+  lightTheme = "transparent_dark"
+  darkTheme = "dark"
+  dataLang = "zh-TW"
+
+[params.analytics]
+  enable = true
+[params.analytics.google]
+  id = "G-5G47PFM5MG"
+  anonymizeIP = true
+
+[params.cookieconsent]
+  enable = true
+
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+
+[author]
+  name = "DoubleZ"
+  email = "doublelazyzz@gmail.com"
+  link = ""
+  avatar = "DoubleZ"
+  gravatarEmail = "doublelazyzz@gmail.com"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[Permalinks]
+  # posts = ":year/:month/:filename"
+  posts = ":filename"
+
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffixes = ["md"]
+
+[outputFormats.MarkDown]
+  mediaType = "text/plain"
+  isPlainText = true
+  isHTML = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
+
+[taxonomies]
+  author = "authors"
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+
+defaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    weight = 2
+    title = "DoubleZ Blog"
+    languageCode = "en"
+    languageName = "English"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      pre = ""
+      post = ""
+      name = "Posts"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "Tags"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "Categories"
+      url = "/categories/"
+      title = ""
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = "series"
+      pre = ""
+      post = ""
+      name = "Series"
+      url = "/series/"
+      title = ""
+      weight = 4
+[languages.zh-tw]
+  weight = 1
+  title = "DoubleZ Blog x"
+  languageCode = "zh-tw"
+  languageName = "繁體中文"
+  hasCJKLanguage = true
+  [[languages.zh-tw.menu.main]]
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "文章"
+    url = "/posts/"
+    title = ""
+    weight = 1
+  [[languages.zh-tw.menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "標籤"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[languages.zh-tw.menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "分類"
+    url = "/categories/"
+    title = ""
+    weight = 3
+
+[params.search]
+  enable = true
+  type = "fuse"
+  contentLength = 4000
+  placeholder = "Search something..."
+  maxResultLength = 10
+  snippetLength = 50
+  highlightTag = "em"
+  absoluteURL = false
+  [params.search.fuse]
+    isCaseSensitive = false
+    minMatchCharLength = 2
+    findAllMatches = false
+    location = 0
+    threshold = 0.3
+    distance = 100
+    ignoreLocation = false
+    useExtendedSearch = false
+    ignoreFieldNorm = false
