@@ -9,6 +9,7 @@ dateFormat = "2006-01-02"
 enableOWA = false
 license =  '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 languageCode = "zh-tw"
+defaultContentLanguage = "zh-tw"
 
 [params.app]
   title = "DoIt"
@@ -172,7 +173,7 @@ languageCode = "zh-tw"
   series = "series"
 
 
-defaultContentLanguage = "en"
+
 [languages]
   [languages.en]
     weight = 2
@@ -211,6 +212,40 @@ defaultContentLanguage = "en"
       url = "/series/"
       title = ""
       weight = 4
+#  [[languages.en.menu.main]]
+#    identifier = "authors"
+#    pre = ""
+#    post = ""
+#    name = "Authors"
+#    url = "/authors/"
+#    title = ""
+#    weight = 5
+#  [[languages.en.menu.main]]
+#    identifier = "showcase"
+#    pre = ""
+#    post = ""
+#    name = "Showcase"
+#    url = "/showcase/"
+#    title = ""
+#    weight = 6
+#  [[languages.en.menu.main]]
+#    identifier = "documentation"
+#    pre = ""
+#    post = ""
+#    name = "Docs"
+#    url = "/categories/documentation/"
+#    title = ""
+#    weight = 7
+#  [[languages.en.menu.main]]
+#    identifier = "about"
+#    pre = ""
+#    post = ""
+#    name = "About"
+#    url = "/about/"
+#    title = ""
+#    weight = 8
+
+
 [languages.zh-tw]
   weight = 1
   title = "DoubleZ Blog x"
@@ -241,6 +276,46 @@ defaultContentLanguage = "en"
     url = "/categories/"
     title = ""
     weight = 3
+  [[languages.en.menu.main]]
+    identifier = "series"
+    pre = ""
+    post = ""
+    name = "Series"
+    url = "/series/"
+    title = ""
+    weight = 4
+#  [[languages.en.menu.main]]
+#    identifier = "authors"
+#    pre = ""
+#    post = ""
+#    name = "Authors"
+#    url = "/authors/"
+#    title = ""
+#    weight = 5
+#  [[languages.en.menu.main]]
+#    identifier = "showcase"
+#    pre = ""
+#    post = ""
+#    name = "Showcase"
+#    url = "/showcase/"
+#    title = ""
+#    weight = 6
+#  [[languages.en.menu.main]]
+#    identifier = "documentation"
+#    pre = ""
+#    post = ""
+#    name = "Docs"
+#    url = "/categories/documentation/"
+#    title = ""
+#    weight = 7
+#  [[languages.en.menu.main]]
+#    identifier = "about"
+#    pre = ""
+#    post = ""
+#    name = "About"
+#    url = "/about/"
+#    title = ""
+#    weight = 8
 
 [params.search]
   enable = true

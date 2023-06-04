@@ -1,9 +1,5 @@
----
-title: "Vue-專案的規範"
-date: 2022-07-24
-tags: ["Vue"]
-categories: ["Vue"]
----
+# Vue-專案的規範
+
 
 # Vue-專案的規範
 
@@ -131,3 +127,4 @@ pnpm add vue-router@next
 ```bash=
 pnpm add vuex@next
 ```
+

@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DoubleZ Blog</title>
+        <link>https://hungchang.co/en/</link>
+        <description>DoubleZ Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>doublelazyzz@gmail.com (DoubleZ)</managingEditor>
+            <webMaster>doublelazyzz@gmail.com (DoubleZ)</webMaster><lastBuildDate>Sun, 24 Jul 2022 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://hungchang.co/en/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Vue-專案的規範</title>
+    <link>https://hungchang.co/en/vue-projectrules/</link>
+    <pubDate>Sun, 24 Jul 2022 00:00:00 &#43;0000</pubDate><author>
+        <name>DoubleZ</name>
+    </author><guid>https://hungchang.co/en/vue-projectrules/</guid>
+    <description><![CDATA[<h1 id="vue-專案的規範" class="headerLink">
+    <a href="#vue-%e5%b0%88%e6%a1%88%e7%9a%84%e8%a6%8f%e7%af%84" class="header-mark"></a>Vue-專案的規範</h1><p>建立 Vue Project 的一些規範</p>]]></description>
+</item></channel>
+</rss>

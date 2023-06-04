@@ -2,57 +2,84 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://hungchang.co/zh-tw/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://hungchang.co/categories/</loc><lastmod>2022-07-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hungchang.co/authors/"
+                        href="https://hungchang.co/en/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://hungchang.co/zh-tw/authors/"
+                    href="https://hungchang.co/categories/"
                     /></url><url>
-            <loc>https://hungchang.co/zh-tw/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://hungchang.co/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-tw"
-                    href="https://hungchang.co/zh-tw/categories/"
-                    /></url><url>
-            <loc>https://hungchang.co/zh-tw/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://hungchang.co/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-tw"
-                    href="https://hungchang.co/zh-tw/"
-                    /></url><url>
-            <loc>https://hungchang.co/zh-tw/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://hungchang.co/</loc><lastmod>2022-07-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://hungchang.co/en/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://hungchang.co/zh-tw/en/"
+                    href="https://hungchang.co/"
                     /></url><url>
-            <loc>https://hungchang.co/zh-tw/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://hungchang.co/posts/</loc><lastmod>2022-07-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hungchang.co/series/"
+                        href="https://hungchang.co/en/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://hungchang.co/zh-tw/series/"
+                    href="https://hungchang.co/posts/"
                     /></url><url>
-            <loc>https://hungchang.co/zh-tw/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://hungchang.co/tags/</loc><lastmod>2022-07-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hungchang.co/tags/"
+                        href="https://hungchang.co/en/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://hungchang.co/zh-tw/tags/"
+                    href="https://hungchang.co/tags/"
+                    /></url><url>
+            <loc>https://hungchang.co/tags/vue/</loc><lastmod>2022-07-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://hungchang.co/en/tags/vue/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-tw"
+                    href="https://hungchang.co/tags/vue/"
+                    /></url><url>
+            <loc>https://hungchang.co/categories/vue/</loc><lastmod>2022-07-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://hungchang.co/en/categories/vue/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-tw"
+                    href="https://hungchang.co/categories/vue/"
+                    /></url><url>
+            <loc>https://hungchang.co/vue-projectrules/</loc><lastmod>2022-07-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://hungchang.co/en/vue-projectrules/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-tw"
+                    href="https://hungchang.co/vue-projectrules/"
+                    /></url><url>
+            <loc>https://hungchang.co/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://hungchang.co/en/authors/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-tw"
+                    href="https://hungchang.co/authors/"
+                    /></url><url>
+            <loc>https://hungchang.co/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://hungchang.co/en/series/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-tw"
+                    href="https://hungchang.co/series/"
                     /></url></urlset>
