@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分類 - DoubleZ Blog x</title>
+        <link>https://hungchang.co/categories/</link>
+        <description>Categories - 分類 - DoubleZ Blog x</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>doublelazyzz@gmail.com (DoubleZ)</managingEditor>
+            <webMaster>doublelazyzz@gmail.com (DoubleZ)</webMaster><lastBuildDate>Tue, 06 Jun 2023 00:10:02 &#43;0800</lastBuildDate><atom:link href="https://hungchang.co/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Arch</title>
+    <link>https://hungchang.co/categories/arch/</link>
+    <pubDate>Tue, 06 Jun 2023 00:10:02 &#43;0800</pubDate><author>
+        <name>DoubleZ</name>
+    </author><guid>https://hungchang.co/categories/arch/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Vue</title>
+    <link>https://hungchang.co/categories/vue/</link>
+    <pubDate>Sun, 24 Jul 2022 00:00:00 &#43;0000</pubDate><author>
+        <name>DoubleZ</name>
+    </author><guid>https://hungchang.co/categories/vue/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

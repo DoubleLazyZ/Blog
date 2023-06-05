@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - DoubleZ Blog</title>
+        <link>https://hungchang.co/en/tags/</link>
+        <description>Tags - Tag - DoubleZ Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>doublelazyzz@gmail.com (DoubleZ)</managingEditor>
+            <webMaster>doublelazyzz@gmail.com (DoubleZ)</webMaster><lastBuildDate>Tue, 06 Jun 2023 00:10:02 &#43;0800</lastBuildDate><atom:link href="https://hungchang.co/en/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Arch</title>
+    <link>https://hungchang.co/en/tags/arch/</link>
+    <pubDate>Tue, 06 Jun 2023 00:10:02 &#43;0800</pubDate><author>
+        <name>DoubleZ</name>
+    </author><guid>https://hungchang.co/en/tags/arch/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>VSCode</title>
+    <link>https://hungchang.co/en/tags/vscode/</link>
+    <pubDate>Tue, 06 Jun 2023 00:10:02 &#43;0800</pubDate><author>
+        <name>DoubleZ</name>
+    </author><guid>https://hungchang.co/en/tags/vscode/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Vue</title>
+    <link>https://hungchang.co/en/tags/vue/</link>
+    <pubDate>Sun, 24 Jul 2022 00:00:00 &#43;0000</pubDate><author>
+        <name>DoubleZ</name>
+    </author><guid>https://hungchang.co/en/tags/vue/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

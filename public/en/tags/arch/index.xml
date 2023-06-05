@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Arch - Tag - DoubleZ Blog</title>
+        <link>https://hungchang.co/en/tags/arch/</link>
+        <description>Arch - Tag - DoubleZ Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>doublelazyzz@gmail.com (DoubleZ)</managingEditor>
+            <webMaster>doublelazyzz@gmail.com (DoubleZ)</webMaster><lastBuildDate>Tue, 06 Jun 2023 00:10:02 &#43;0800</lastBuildDate><atom:link href="https://hungchang.co/en/tags/arch/" rel="self" type="application/rss+xml" /><item>
+    <title>Arch Linux 安裝 VSCode 及其他程式</title>
+    <link>https://hungchang.co/en/arch-vscode/</link>
+    <pubDate>Tue, 06 Jun 2023 00:10:02 &#43;0800</pubDate><author>
+        <name>DoubleZ</name>
+    </author><guid>https://hungchang.co/en/arch-vscode/</guid>
+    <description><![CDATA[<h1 id="arch-linux-安裝-vscode-及其他程式" class="headerLink">
+    <a href="#arch-linux-%e5%ae%89%e8%a3%9d-vscode-%e5%8f%8a%e5%85%b6%e4%bb%96%e7%a8%8b%e5%bc%8f" class="header-mark"></a>Arch Linux 安裝 VSCode 及其他程式</h1><p>前陣子使用 Arch Linux 安裝 VSCode 和其他軟體，遇到了一些問題，所以紀錄一下安裝過程。</p>]]></description>
+</item></channel>
+</rss>

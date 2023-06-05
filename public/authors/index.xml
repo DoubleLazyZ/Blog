@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Authors - 作者 - DoubleZ Blog x</title>
+        <link>https://hungchang.co/authors/</link>
+        <description>Authors - 作者 - DoubleZ Blog x</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>doublelazyzz@gmail.com (DoubleZ)</managingEditor>
+            <webMaster>doublelazyzz@gmail.com (DoubleZ)</webMaster><atom:link href="https://hungchang.co/authors/" rel="self" type="application/rss+xml" /></channel>
+</rss>
