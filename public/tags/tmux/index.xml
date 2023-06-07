@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>tmux - 標籤 - DoubleZ Blog x</title>
+        <link>https://hungchang.co/tags/tmux/</link>
+        <description>tmux - 標籤 - DoubleZ Blog x</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>doublelazyzz@gmail.com (DoubleZ)</managingEditor>
+            <webMaster>doublelazyzz@gmail.com (DoubleZ)</webMaster><lastBuildDate>Thu, 08 Jun 2023 00:47:32 &#43;0800</lastBuildDate><atom:link href="https://hungchang.co/tags/tmux/" rel="self" type="application/rss+xml" /><item>
+    <title>Tmux Ncurses6 Problem</title>
+    <link>https://hungchang.co/tmux-ncurses6-problem/</link>
+    <pubDate>Thu, 08 Jun 2023 00:47:32 &#43;0800</pubDate><author>
+        <name>DoubleZ</name>
+    </author><guid>https://hungchang.co/tmux-ncurses6-problem/</guid>
+    <description><![CDATA[<h1 id="arch-安裝完-tmux-後無法使用問題" class="headerLink">
+    <a href="#arch-%e5%ae%89%e8%a3%9d%e5%ae%8c-tmux-%e5%be%8c%e7%84%a1%e6%b3%95%e4%bd%bf%e7%94%a8%e5%95%8f%e9%a1%8c" class="header-mark"></a>Arch 安裝完 tmux 後無法使用問題</h1><h2 id="問題" class="headerLink">
+    <a href="#%e5%95%8f%e9%a1%8c" class="header-mark"></a>問題</h2><p>今天在 arch 上安裝 tmux 輸入 <code>tmux new -s test_name</code> 的時候發生了以下的錯誤</p>]]></description>
+</item></channel>
+</rss>

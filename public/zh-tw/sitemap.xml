@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://hungchang.co/tags/arch/</loc><lastmod>2023-06-06T00:10:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hungchang.co/tags/arch/</loc><lastmod>2023-06-08T00:47:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://hungchang.co/en/tags/arch/"
@@ -11,7 +11,7 @@
                     hreflang="zh-tw"
                     href="https://hungchang.co/tags/arch/"
                     /></url><url>
-            <loc>https://hungchang.co/categories/arch/</loc><lastmod>2023-06-06T00:10:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hungchang.co/categories/arch/</loc><lastmod>2023-06-08T00:47:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://hungchang.co/en/categories/arch/"
@@ -20,16 +20,7 @@
                     hreflang="zh-tw"
                     href="https://hungchang.co/categories/arch/"
                     /></url><url>
-            <loc>https://hungchang.co/arch-vscode/</loc><lastmod>2023-06-06T00:10:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://hungchang.co/en/arch-vscode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-tw"
-                    href="https://hungchang.co/arch-vscode/"
-                    /></url><url>
-            <loc>https://hungchang.co/categories/</loc><lastmod>2023-06-06T00:10:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hungchang.co/categories/</loc><lastmod>2023-06-08T00:47:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://hungchang.co/en/categories/"
@@ -38,7 +29,7 @@
                     hreflang="zh-tw"
                     href="https://hungchang.co/categories/"
                     /></url><url>
-            <loc>https://hungchang.co/</loc><lastmod>2023-06-06T00:10:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hungchang.co/</loc><lastmod>2023-06-08T00:47:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://hungchang.co/en/"
@@ -47,7 +38,7 @@
                     hreflang="zh-tw"
                     href="https://hungchang.co/"
                     /></url><url>
-            <loc>https://hungchang.co/posts/</loc><lastmod>2023-06-06T00:10:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hungchang.co/posts/</loc><lastmod>2023-06-08T00:47:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://hungchang.co/en/posts/"
@@ -56,7 +47,7 @@
                     hreflang="zh-tw"
                     href="https://hungchang.co/posts/"
                     /></url><url>
-            <loc>https://hungchang.co/tags/</loc><lastmod>2023-06-06T00:10:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hungchang.co/tags/</loc><lastmod>2023-06-08T00:47:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://hungchang.co/en/tags/"
@@ -64,6 +55,17 @@
                     rel="alternate"
                     hreflang="zh-tw"
                     href="https://hungchang.co/tags/"
+                    /></url><url>
+            <loc>https://hungchang.co/tags/tmux/</loc><lastmod>2023-06-08T00:47:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://hungchang.co/tmux-ncurses6-problem/</loc><lastmod>2023-06-08T00:47:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://hungchang.co/arch-vscode/</loc><lastmod>2023-06-06T00:10:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://hungchang.co/en/arch-vscode/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-tw"
+                    href="https://hungchang.co/arch-vscode/"
                     /></url><url>
             <loc>https://hungchang.co/tags/vscode/</loc><lastmod>2023-06-06T00:10:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
